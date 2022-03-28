@@ -1,0 +1,10 @@
+uuid: 02592139-0489-4ada-bc3c-7952120afedb
+langcode: en
+status: true
+dependencies:
+  module:
+    - path_alias
+id: path_alias.token
+label: Token
+targetEntityType: path_alias
+cache: true

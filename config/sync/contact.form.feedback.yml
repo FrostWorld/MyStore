@@ -1,0 +1,14 @@
+uuid: e768aebc-722c-46b4-99c9-e400643d5073
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - a.sernii@netstudio.gr
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

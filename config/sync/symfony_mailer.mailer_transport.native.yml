@@ -1,0 +1,10 @@
+uuid: 95be675c-529f-4f8a-b1ac-178ce0c05f6a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XeXsIlg7kOaq6aS6ukqMUES_MXt11Y2vCYqBFnU_Tbo
+id: native
+label: Native
+plugin: native
+configuration: {  }
